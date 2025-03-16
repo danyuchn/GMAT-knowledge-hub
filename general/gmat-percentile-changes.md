@@ -10,6 +10,8 @@
 
 Below is a comparison between data from six months ago (lighter color) and now (darker color).
 
+![GMAT百分位趨勢圖](./images/gmat-percentile-chart.png)
+
 You can observe that:
 
 * Quant (Q) percentiles have slightly decreased for scores below 86.
