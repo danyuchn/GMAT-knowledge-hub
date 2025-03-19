@@ -1,4 +1,4 @@
-# GMAX Mindset: Analyzing the New "Data Sufficiency Text Questions" - From Transcript to Article
+# Analyzing the New "Data Sufficiency non-math Questions"
 
 ## Introduction: The Emergence and Challenges of a New Question Type
 
