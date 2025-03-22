@@ -1,103 +1,229 @@
-# Lecture Summary: GMAT CR Seminar - Scheme Purpose Questions and Problem-Solving Strategies
+# GMAT Evaluation of Plan Question Type Analysis and Strategies
 
-## Theme Introduction: Scheme Purpose Questions in GMAT CR
+## Overview
 
-The lecture centers on **Scheme Purpose Questions** (or "Evaluation of Plan" questions), which Dustin estimates comprise over one-third of CR items in the Official Guide (OG). He ties their prevalence to GMAT’s role as a business school test, emphasizing decision-making in commercial-like scenarios—think wildlife policies or city planning—over abstract logic puzzles. Sourcing examples from the *GMAT Advanced Questions* book, a high-difficulty collection, he promises to unpack GMAT’s design, including tricky distractors and time-pressure tactics.
+This document records a seminar on the "Evaluation of Plan" question type in the GMAT Critical Reasoning (CR) section, which accounts for over one-third of CR questions. The seminar uses high-difficulty questions from *GMAT Advanced Questions* to help candidates understand GMAT design logic and develop solving strategies.
 
-## Dustin’s Core Problem-Solving Framework
+## Characteristics of GMAT Evaluation of Plan Questions
 
-Dustin champions a streamlined, thought-driven approach over rigid rules or micro-classifications, unveiling five key strategies applied across seven questions:
+- **Business-Oriented**: As a business school entrance exam, GMAT simulates decision-making scenarios to test evaluation skills.
+- **Question Categories**: The Official Guide (OG) classifies CR questions into types, with "Evaluation of Plan" focusing on plan assessment.
+- **Difficulty Sources**: 
+  - Content may not be complex, but option design is highly deceptive.
+  - Requires quick identification of key points under time pressure.
 
-1. **Analyze the Question Stem Carefully**: The stem is king—misinterpreting it even slightly can lead astray, a principle spanning CR, RC, and DI (e.g., DSR, TPA).
-2. **Adopt a Stakeholder Role**: For scheme questions, “substitution thinking” means stepping into a stakeholder’s shoes—preferably the decision-maker or affected party—to ground the problem.
-3. **Prethink Before Options**: Treat the question as open-ended first, defining success metrics or KPIs (e.g., “What matters to me in this role?”) before seeing choices.
-4. **Screen Options with Prethink**: Use these metrics for a swift first-pass filter, avoiding repetitive passage rereads.
-5. **Final Check with Key Issue**: Revisit the stem or passage’s core issue for a second-round check, ensuring scheme alignment.
+## Problem-Solving Strategy
 
-He contrasts this with overly complex frameworks, which falter under exam stress, and attendees signal comprehension with a chat “E.”
+Dustin proposes a five-step, thinking-oriented process emphasizing the "role immersion" method throughout:
 
-## Detailed Question Demonstrations
+1. **Analyze the Question Stem Carefully**: Defines the evaluation target.
+2. **Immerse in a Role**: Adopt the perspective of a stakeholder, grounded in the scenario.
+3. **Prethink**: Establish the role’s key concerns or KPIs before viewing options.
+4. **First-Round Quick Filtering**: Filter options from the role’s perspective.
+5. **Second-Round Detailed Check**: Confirm alignment with the question stem and plan.
 
-Dustin demonstrates his framework with seven high-difficulty questions, emphasizing role substitution and prethinking. Below are expanded analyses for key examples:
+## Example Question Analyses
 
-### Question 1: Wildlife Officials and Snakeheads
-- **Passage**: Northern snakeheads, an invasive fish with no local predators in North American rivers, threaten rare native species. For three years, wildlife officials paid recreational fishers to catch them, aiming to curb population growth and protect biodiversity.
-- **Question**: “Which of the following would be most useful in evaluating the likelihood that the wildlife officials’ plan will succeed?”
-- **Analysis**: 
-  - **Step 1: Question Stem Analysis**: Dustin dissects “likelihood of success,” noting “success” means achieving the dual goals—halting snakehead growth and safeguarding rare fish. The stem demands a factor tied to the plan’s effectiveness.
-  - **Step 2: Role Substitution**: He rejects the official’s perspective (too self-assured) and the fishers’ (merely hired hands), opting for the supervisor overseeing the officials. “I’m the boss,” he says, “judging if my team’s plan works.”
-  - **Step 3: Prethinking**: As the supervisor, Dustin asks, “What would I need to see to call this a win? Fewer snakeheads in the rivers—say, a 20% drop in sightings—and more rare fish surviving, maybe their numbers stabilizing or rising.” These KPIs become his yardstick.
-  - **Step 4: Option Screening**: 
-    - A: “Whether snakehead numbers decreased via predators” aligns with fewer snakeheads but introduces an unrelated method, not the payment plan—reserved but suspect.
-    - B: “How rare fish populations changed since payments began” directly measures the plan’s impact on a key goal—reserved.
-    - C: “Whether snakehead prey declined decades ago” uses pre-plan data, irrelevant to current success—discarded.
-    - D: “How many snakeheads were caught” tracks effort, not outcome (numbers could rise despite catches)—discarded.
-    - E: “Other threats to rare fish” is outside the plan’s scope—discarded.
-  - **Step 5: Final Check**: Revisiting “plan will succeed,” Dustin stresses the payment scheme’s causal link. A fails (predators aren’t the plan), while B ties fish recovery to payments, winning out.
+Below are detailed analyses of all seven seminar questions, with option filtering explicitly from the immersed role’s perspective.
 
-### Question 2: City Parking Meters
-- **Passage**: Taylor argues scarce parking deters shoppers in a community; the city plans meters to boost turnover, but Taylor predicts fees will drive shoppers away.
-- **Question**: “Which, if true, most logically rebuts a proponent of the city’s plan would make to Taylor’s objection?”
-- **Analysis**: 
-  - **Step 1: Question Stem Analysis**: “Rebut Taylor’s objection” means countering “shoppers will leave due to fees,” from the plan’s advocate’s view.
-  - **Step 2: Role Substitution**: Dustin starts as a city official but pivots to a shopper—“If I’m the official, I’d convince Taylor by thinking like the people affected.” As a shopper, he embodies the plan’s target.
-  - **Step 3: Prethinking**: “Why would I, a shopper, stay despite fees? Maybe they’re cheap—$1 won’t break me—or searching for free spots wastes more time and gas, or the mall offers parking discounts with purchases.” These scenarios shape his filter.
-  - **Step 4: Option Screening**: 
-    - A: “Shoppers dislike searching more than paying” matches the “less hassle” prethink—reserved.
-    - B: “Meters limit parking time” confuses intent (is it free or paid?)—discarded.
-    - C: “Shoppers rarely shop elsewhere now” hints at loyalty but reflects pre-meter habits—reserved.
-    - D: “Community already has paid lots” ignores the new plan’s effect—discarded.
-    - E: “Nearby free lots have no limits” suggests shoppers would flee—opposite intent, discarded.
-  - **Step 5: Final Check**: The stem seeks a rebuttal tied to the meter plan’s future. C’s “now” is pre-scheme, while A’s preference for paying over searching directly counters Taylor’s flight prediction, making A the answer.
+### Question 1: Wildlife Officials’ Snakehead Plan
 
-### Question 3: Music Education Proposal
-- **Passage**: Adults lack music appreciation due to limited school music education compared to visual arts. Educators propose teaching composition to foster appreciation.
-- **Question**: “Which, if true, most strongly suggests implementing the proposal won’t succeed?”
-- **Analysis**: 
-  - **Step 1: Question Stem Analysis**: “Won’t succeed” means the plan fails to achieve appreciation, requiring a weakening factor.
-  - **Step 2: Role Substitution**: Dustin bypasses educators (pro-plan) for a critic—first a parent, then a student: “As a kid forced to learn composition, I’d be closest to the outcome.”
-  - **Step 3: Prethinking**: As a student, he muses, “If I learn to compose, will I automatically love Beethoven? Maybe I’d master scales but still find it dull—technique doesn’t guarantee passion.” He seeks a disconnect between skill and appreciation.
-  - **Step 4: Option Screening**: 
-    - A: “Few kids compose great works” focuses on output, not enjoyment—discarded.
-    - B: “Visual arts education doesn’t ensure appreciation” parallels music, suggesting composition won’t spark love—reserved.
-    - C: “More enjoy music than art” shows appreciation exists but not via the plan—discarded.
-    - D: “Some composers didn’t study composition” addresses creation, not appreciation—discarded.
-    - E: “Proposal based on three schools” questions sampling, not efficacy—discarded.
-  - **Step 5: Final Check**: B’s analogy—learning art doesn’t guarantee liking it—directly undermines the plan’s logic, winning as the strongest weakener.
+**Question Stem**:  
+> Which of the following would be most useful in evaluating the likelihood that the wildlife officials' plan will succeed?
 
-### Quiz Question: Farmer’s Quota Strategy
-- **Passage**: In Rzeg, unsold crops are bought at guaranteed prices. Imminent quotas will cap production at a fixed fraction of past yields to curb overproduction.
-- **Question**: “Which should the farmer do now to minimize profit impact?”
-- **Analysis**: 
-  - **Step 1: Question Stem Analysis**: “Minimize profit impact” seeks a proactive step to offset quota losses, tied to the farmer’s actions.
-  - **Step 2: Role Substitution**: Dustin becomes the farmer: “I’m growing crops, facing cuts—my profits are at stake.”
-  - **Step 3: Prethinking**: “Quotas are past yield times a discount—say, 60% of last year’s 100 tons becomes 60 tons. If I boost this year’s yield to 200 tons, 60% is 120 tons—more to sell. Or I could sell elsewhere, dodging quotas.” He prioritizes inflating pre-quota output.
-  - **Step 4: Option Screening**: 
-    - A: “Retire unprofitable fields” shrinks yield, worsening cuts—reserved but flawed.
-    - B: “Lock future prices” stabilizes income but lacks high/low clarity—reserved.
-    - C: “New harvester” boosts harvest but not sales under quotas—discarded.
-    - D: “Cultivate unused land” spikes pre-quota yield, raising future caps—reserved.
-    - E: “Negotiate group cuts” spreads loss, not minimizing it—discarded.
-  - **Step 5: Final Check**: A reduces quotas, B’s price fix is vague, but D ensures higher quotas (e.g., 120 vs. 60 tons), directly minimizing impact. D wins, correcting most attendees’ B choice.
+**Passage**:  
+Northern Snakeheads, an invasive species with no local predators, were found in North American rivers. For three years, officials paid amateur fishers to catch them, aiming to curb population growth and protect rare native species.
 
-### Final Question: Brainwave Scanner
-- **Passage**: A device scans brainwaves against 15,000 samples to gauge concussion severity, helping doctors decide if athletes can return to play.
-- **Question**: “Which best evaluates if the device effectively achieves its purpose?”
-- **Analysis**: 
-  - **Step 1: Question Stem Analysis**: “Effectively achieves” means aiding accurate, timely return-to-play calls.
-  - **Step 2: Role Substitution**: Dustin picks the doctor: “I’m on the sideline, athlete’s down—can this gadget help me decide fast?”
-  - **Step 3: Prethinking**: “I need it right—sending a concussed player back risks injury—and quick, before the game’s over. Maybe it misreads old data or takes too long—accuracy and speed are my KPIs.”
-  - **Step 4: Option Screening**: 
-    - A: “Are samples updated?” ensures accuracy but not speed—reserved.
-    - B: “Can it decide correctly before match end?” hits both KPIs—reserved.
-    - C: “Expert endorsement” is irrelevant to function—discarded.
-    - D: “Same-game teammate data” isn’t essential for accuracy—discarded.
-    - E: “Past doctor errors” blames humans, not the device—discarded.
-  - **Step 5: Final Check**: B’s dual focus (correctness and timing) outshines A’s singular accuracy, aligning with the device’s purpose.
+**Analysis**:
+- **Question Stem Analysis**: Evaluate the plan’s success likelihood, defined as achieving its goals (curbing snakehead growth, protecting rare species).
+- **Role Immersion**: Supervisor of the officials, tasked with reviewing the plan’s effectiveness.
+- **Prethink**: As the supervisor, I care about:
+  1. Whether snakehead numbers decrease.
+  2. Whether rare species are protected.
+- **Option Filtering (Supervisor’s Perspective)**:
+  - **A**: Whether snakehead numbers decreased due to introducing predators  
+    - I’m assessing paid fishing, not predators—irrelevant, eliminate.
+  - **B**: Changes in rare fish populations since paying fishers  
+    - I need to know if my plan protects rare fish—directly relevant, keep.
+  - **C**: Whether fish preyed on by snakeheads in their native regions declined recently  
+    - I care about my local results, and this is pre-plan data—useless, eliminate.
+  - **D**: Number of snakeheads caught  
+    - I want wild population reduction, not just catch numbers (they might reproduce faster)—off-target, eliminate.
+  - **E**: Whether rare fish face other threats  
+    - I’m only reviewing the snakehead plan, not other issues—out of scope, eliminate.
+- **Second Check**: Stem focuses on "plan" success; B ties directly to paid fishing outcomes, unlike A’s unrelated method.
+- **Conclusion**: Answer is **B**.
 
-## Common Distractor Patterns
+### Question 2: City Parking Fee Plan
 
-Dustin flags three GMAT distractor traps:
-1. **Scheme-Irrelevant Factors**: Goal-related but plan-unlinked (e.g., predators in Q1).
-2. **Time Misalignment**: Pre-scheme data (e.g., decades-ago fish in Q1).
-3. **Ambiguous Direction**: Unclear impact (e.g., fixed prices in Quiz).
+**Question Stem**:  
+> Which of the following, if true, provides the strongest rebuttal to Taylor’s objection to the city’s plan?
+
+**Passage**:  
+Taylor argues that installing parking meters will drive customers away due to fees. The city plans to use fees to improve parking space efficiency.
+
+**Analysis**:
+- **Question Stem Analysis**: Rebut Taylor’s objection (customers will leave), proving the plan won’t fail.
+- **Role Immersion**: Customer, considering "under what conditions would I stay?"
+- **Prethink**: As a customer, I’d stay if:
+  1. Fees don’t bother me much.
+  2. Leaving costs more (time/money).
+- **Option Filtering (Customer’s Perspective)**:
+  - **A**: I hate searching for spots more than paying  
+    - I’d rather pay than waste time—matches my stay condition, keep.
+  - **B**: City adds parking time limits  
+    - I’d be annoyed by restrictions; doesn’t help me stay—eliminate.
+  - **C**: I rarely shop elsewhere now  
+    - My current habit doesn’t mean I won’t leave after fees—irrelevant, eliminate.
+  - **D**: Community already has paid lots  
+    - I know that, but how does new fees affect me? Unclear—eliminate.
+  - **E**: Nearby free parking has no limits  
+    - I’d go there if it’s free and easy—supports Taylor, eliminate.
+- **Second Check**: Stem seeks Taylor’s rebuttal; A proves I’d stay from my view, C is just current state.
+- **Conclusion**: Answer is **A**.
+
+### Question 3: School Music Composition Suggestion
+
+**Question Stem**:  
+> Which of the following, if true, most strongly supports the claim that implementing the suggestion will not lead to the desired success?
+
+**Passage**:  
+Adults lack appreciation for compositional beauty due to an elementary focus on visual arts over music. Educators suggest teaching students composition to improve appreciation.
+
+**Analysis**:
+- **Question Stem Analysis**: Weaken the plan, showing composition teaching won’t achieve appreciation.
+- **Role Immersion**: Student, opposing "learning composition makes me appreciate music."
+- **Prethink**: As a student, I think learning skills doesn’t mean I’ll appreciate beauty.
+- **Option Filtering (Student’s Perspective)**:
+  - **A**: I rarely create great compositions  
+    - My skill level doesn’t affect appreciation—irrelevant, eliminate.
+  - **B**: Visual arts education didn’t make me appreciate paintings  
+    - I learned art but still don’t get it—same with music, keep.
+  - **C**: More people enjoy music than art  
+    - I don’t care what others like; doesn’t affect my learning—eliminate.
+  - **D**: Some composers never studied composition  
+    - I’m about learning’s effect, not bypassing it—eliminate.
+  - **E**: Suggestion based on three-school study  
+    - I don’t care about study origins; doesn’t prove my point—eliminate.
+- **Second Check**: Stem needs plan failure proof; B weakens causality from my experience, C is unrelated.
+- **Conclusion**: Answer is **B**.
+
+### Question 4: Farmer’s Response to Grain Quota
+
+**Question Stem**:  
+> Suppose an individual farmer in country R wishes to minimize the impact on profits of the grain quota whose eventual imposition is being predicted. Which should the farmer do now?
+
+**Passage**:  
+Farmers sell unsold crops to a committee at a guaranteed price, but a future quota will limit production to a fixed percentage of past output to curb overproduction.
+
+**Analysis**:
+- **Question Stem Analysis**: Find the farmer’s current action to minimize profit impact from the quota.
+- **Role Immersion**: Farmer, aiming to protect profits.
+- **Prethink**: As a farmer, I’d:
+  1. Boost pre-quota output for a higher future limit.
+  2. Sell independently to avoid quota restrictions.
+- **Option Filtering (Farmer’s Perspective)**:
+  - **A**: I retire unprofitable fields  
+    - I’d lose some profit; not ideal but reduces loss—keep cautiously.
+  - **B**: I lock in future prices  
+    - I might avoid losses, but high or low price? Uncertain—keep.
+  - **C**: I buy a new harvester  
+    - I’d spend more and can’t sell excess—useless, eliminate.
+  - **D**: I cultivate marginal land to boost output  
+    - I increase pre-quota yield, raising my limit—perfect, keep.
+  - **E**: I negotiate with others to cut production  
+    - I drag others down but don’t save myself—eliminate.
+- **Second Check**: Stem wants impact minimized; D clearly boosts my profit, B’s price direction is vague.
+- **Conclusion**: Answer is **D**.
+
+### Question 5: Waste Recycling Proposal
+
+**Question Stem**:  
+> Which of the following, if true, most seriously calls into question the advisability of implementing the proposal?
+
+**Passage**:  
+Recycling is seen as more eco-friendly and profitable than incineration or burial. A legislator proposes mandating 50% waste recycling in communities within five years.
+
+**Analysis**:
+- **Question Stem Analysis**: Question the proposal’s advisability (ineffective, side effects, infeasible).
+- **Role Immersion**: Community resident, opposing mandatory recycling.
+- **Prethink**: As a resident, I doubt:
+  1. Recycling rates won’t rise.
+  2. It’ll cause issues (e.g., cost).
+  3. It’s impractical.
+- **Option Filtering (Resident’s Perspective)**:
+  - **A**: Current participation varies  
+    - I don’t care who recycles now; future matters—eliminate.
+  - **B**: Only 20% of recycling is profitable now  
+    - I see 50% won’t pay off, so why bother?—keep.
+  - **C**: Small volumes make buyers scarce now  
+    - I think bigger volumes will sell better—helps them, eliminate.
+  - **D**: Some recyclables pollute little anyway  
+    - I say old ways work too, but doesn’t trash recycling—eliminate.
+  - **E**: Non-recyclables are hard to burn  
+    - I don’t care about the other 50%—irrelevant, eliminate.
+- **Second Check**: Stem seeks doubts; B undercuts profit from my view, C supports the plan.
+- **Conclusion**: Answer is **B**.
+
+### Question 6: River Diversion Plan
+
+**Question Stem**:  
+> Which of the following, if true, most effectively identifies a weakness in the plan described in the passage?
+
+**Passage**:  
+Declining river levels cause saltwater intrusion; 40% of water is diverted to towns. The plan stops diversion to protect the river, though it may raise water costs or reduce supply.
+
+**Analysis**:
+- **Question Stem Analysis**: Identify a plan weakness (ineffective, costly, infeasible).
+- **Role Immersion**: Water company, opposing the diversion halt.
+- **Prethink**: As the company, I argue:
+  1. Diversion doesn’t affect levels.
+  2. It’s too costly to stop.
+  3. It’s unworkable.
+- **Option Filtering (Water Company’s Perspective)**:
+  - **A**: I can purify salty water  
+    - I’d cope, not critique the plan—eliminate.
+  - **B**: Levels are just one salinity factor  
+    - I say you’re missing other causes—keep.
+  - **C**: Upstream is dam-controlled  
+    - I see upstream’s covered, but what about downstream?—eliminate.
+  - **D**: Town populations are growing  
+    - I need more water, so don’t stop—opposite direction, eliminate.
+  - **E**: Level drop was drought-driven, now over  
+    - I say the problem’s gone, your plan’s pointless—keep.
+- **Second Check**: Stem wants a weakness; E proves it’s unnecessary from my view, B’s factor weight is unclear.
+- **Conclusion**: Answer is **E**.
+
+### Question 7: Brainwave Device Evaluation
+
+**Question Stem**:  
+> Which of the following would be most useful in evaluating whether the device can effectively achieve its intended purpose?
+
+**Passage**:  
+A device scans brainwaves, comparing them to 15,000 samples, to help doctors decide if injured athletes can return to the field.
+
+**Analysis**:
+- **Question Stem Analysis**: Assess if the device effectively meets its goal (judging athlete status).
+- **Role Immersion**: Doctor, needing accurate and fast decisions.
+- **Prethink**: As a doctor, I need:
+  1. Accurate judgments.
+  2. Quick judgments.
+- **Option Filtering (Doctor’s Perspective)**:
+  - **A**: Is the database updated?  
+    - I need current data for accuracy—keep.
+  - **B**: Can I make sound decisions before the game ends?  
+    - I need both accuracy and speed—ideal, keep.
+  - **C**: Do experts endorse it?  
+    - I care about results, not opinions—eliminate.
+  - **D**: Does it include same-game teammates’ data?  
+    - I just need good samples, not specific ones—eliminate.
+  - **E**: Have I misjudged before?  
+    - My errors don’t judge the device—eliminate.
+- **Second Check**: Stem seeks effectiveness; B meets my full needs, A only covers accuracy.
+- **Conclusion**: Answer is **B**.
+
+## Common Distractor Types
+
+1. **Goal-Related but Plan-Irrelevant**: e.g., predators (Q1 A).
+2. **Wrong Time Frame**: e.g., pre-plan data (Q1 C).
+3. **Unclear Direction**: e.g., unspecified price level (Q4 B).
